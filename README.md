@@ -3,7 +3,7 @@ The Projects repository for Open Innovation Network
 
 Available at:
 
-http://openinnovationnetwork.github.io/Projects/
+http://civics.github.io/Projects/
 
 ---
 
